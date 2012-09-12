@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/supercsv/!svn/ver/241/trunk/super-csv/src/main/java/org/supercsv/cellprocessor/constraint
+END
+StrRegEx.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/cellprocessor/constraint/StrRegEx.java
+END
+StrNotNullOrEmpty.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/cellprocessor/constraint/StrNotNullOrEmpty.java
+END
+UniqueHashCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/cellprocessor/constraint/UniqueHashCode.java
+END
+LMinMax.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/cellprocessor/constraint/LMinMax.java
+END
+Unique.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/cellprocessor/constraint/Unique.java
+END
+Strlen.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/cellprocessor/constraint/Strlen.java
+END
+ForbidSubStr.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/cellprocessor/constraint/ForbidSubStr.java
+END
+IsIncludedIn.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/cellprocessor/constraint/IsIncludedIn.java
+END
+RequireHashCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/cellprocessor/constraint/RequireHashCode.java
+END
+RequireSubStr.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/cellprocessor/constraint/RequireSubStr.java
+END
+StrMinMax.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/cellprocessor/constraint/StrMinMax.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/cellprocessor/constraint/package-info.java
+END
+Equals.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/cellprocessor/constraint/Equals.java
+END
+NotNull.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/cellprocessor/constraint/NotNull.java
+END
+DMinMax.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/cellprocessor/constraint/DMinMax.java
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/supercsv/!svn/ver/241/trunk/super-csv/src/test/java/org/supercsv/cellprocessor
+END
+FmtNumberTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/FmtNumberTest.java
+END
+FmtBoolTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/FmtBoolTest.java
+END
+StrReplaceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/StrReplaceTest.java
+END
+ParseDoubleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/ParseDoubleTest.java
+END
+ParseDateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/ParseDateTest.java
+END
+ParseCharTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/ParseCharTest.java
+END
+ParseBigDecimalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/ParseBigDecimalTest.java
+END
+TrimTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/TrimTest.java
+END
+ConvertNullToTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/ConvertNullToTest.java
+END
+TokenTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/TokenTest.java
+END
+FmtDateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/FmtDateTest.java
+END
+ParseIntTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/ParseIntTest.java
+END
+OptionalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/OptionalTest.java
+END
+TruncateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/TruncateTest.java
+END
+ParseBoolTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/ParseBoolTest.java
+END
+HashMapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/HashMapperTest.java
+END
+ParseLongTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/ParseLongTest.java
+END
+CellProcessorAdaptorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/CellProcessorAdaptorTest.java
+END

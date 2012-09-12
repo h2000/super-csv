@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/supercsv/!svn/ver/241/trunk/super-csv/src/main/java/org/supercsv/io
+END
+ICsvMapWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/io/ICsvMapWriter.java
+END
+ICsvWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/io/ICsvWriter.java
+END
+AbstractCsvReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/io/AbstractCsvReader.java
+END
+CsvBeanReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/io/CsvBeanReader.java
+END
+CsvListReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/io/CsvListReader.java
+END
+Tokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/io/Tokenizer.java
+END
+CsvMapReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/io/CsvMapReader.java
+END
+AbstractCsvWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/io/AbstractCsvWriter.java
+END
+ICsvBeanReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/io/ICsvBeanReader.java
+END
+CsvBeanWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/io/CsvBeanWriter.java
+END
+ICsvListReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/io/ICsvListReader.java
+END
+ITokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/io/ITokenizer.java
+END
+CsvListWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/io/CsvListWriter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/io/package-info.java
+END
+ICsvMapReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/io/ICsvMapReader.java
+END
+CsvMapWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/io/CsvMapWriter.java
+END
+ICsvReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/io/ICsvReader.java
+END
+ICsvBeanWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/io/ICsvBeanWriter.java
+END
+ICsvListWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/io/ICsvListWriter.java
+END
+AbstractTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/io/AbstractTokenizer.java
+END

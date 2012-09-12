@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/supercsv/!svn/ver/241/trunk/super-csv/src/test/java/org/supercsv/exception
+END
+SuperCsvConstraintViolationExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/exception/SuperCsvConstraintViolationExceptionTest.java
+END
+SuperCsvReflectionExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/exception/SuperCsvReflectionExceptionTest.java
+END
+SuperCsvCellProcessorExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/exception/SuperCsvCellProcessorExceptionTest.java
+END
+SuperCsvExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/exception/SuperCsvExceptionTest.java
+END

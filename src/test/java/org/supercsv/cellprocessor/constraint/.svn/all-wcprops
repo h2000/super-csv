@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/supercsv/!svn/ver/241/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/constraint
+END
+RequireSubStrTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/constraint/RequireSubStrTest.java
+END
+StrMinMaxTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/constraint/StrMinMaxTest.java
+END
+StrRegExTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/constraint/StrRegExTest.java
+END
+StrNotNullOrEmptyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/constraint/StrNotNullOrEmptyTest.java
+END
+LMinMaxTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/constraint/LMinMaxTest.java
+END
+UniqueHashCodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/constraint/UniqueHashCodeTest.java
+END
+UniqueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/constraint/UniqueTest.java
+END
+StrlenTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/constraint/StrlenTest.java
+END
+ForbidSubStrTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/constraint/ForbidSubStrTest.java
+END
+EqualsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/constraint/EqualsTest.java
+END
+IsIncludedInTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/constraint/IsIncludedInTest.java
+END
+NotNullTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/constraint/NotNullTest.java
+END
+RequireHashCodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/constraint/RequireHashCodeTest.java
+END
+DMinMaxTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/cellprocessor/constraint/DMinMaxTest.java
+END

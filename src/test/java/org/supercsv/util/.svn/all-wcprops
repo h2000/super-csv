@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/supercsv/!svn/ver/241/trunk/super-csv/src/test/java/org/supercsv/util
+END
+TwoDHashMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/util/TwoDHashMapTest.java
+END
+CsvContextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/util/CsvContextTest.java
+END
+MethodCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/util/MethodCacheTest.java
+END
+BeanInterfaceProxyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/util/BeanInterfaceProxyTest.java
+END
+ReflectionUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/util/ReflectionUtilsTest.java
+END
+ThreeDHashMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/util/ThreeDHashMapTest.java
+END
+UtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/util/UtilTest.java
+END

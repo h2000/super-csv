@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/supercsv/!svn/ver/241/trunk/super-csv/src/main/java/org/supercsv/cellprocessor/ift
+END
+CellProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/cellprocessor/ift/CellProcessor.java
+END
+LongCellProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/cellprocessor/ift/LongCellProcessor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/cellprocessor/ift/package-info.java
+END
+StringCellProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/cellprocessor/ift/StringCellProcessor.java
+END
+DoubleCellProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/cellprocessor/ift/DoubleCellProcessor.java
+END
+BoolCellProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/cellprocessor/ift/BoolCellProcessor.java
+END
+DateCellProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/main/java/org/supercsv/cellprocessor/ift/DateCellProcessor.java
+END

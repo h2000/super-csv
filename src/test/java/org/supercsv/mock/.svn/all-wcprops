@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/supercsv/!svn/ver/241/trunk/super-csv/src/test/java/org/supercsv/mock
+END
+ReflectionBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/mock/ReflectionBean.java
+END
+Customer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/mock/Customer.java
+END
+IdentityTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/mock/IdentityTransform.java
+END
+CustomerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/mock/CustomerBean.java
+END
+PersonBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/mock/PersonBean.java
+END
+CustomerStringBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/supercsv/!svn/ver/239/trunk/super-csv/src/test/java/org/supercsv/mock/CustomerStringBean.java
+END
