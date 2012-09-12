@@ -35,7 +35,7 @@ import org.supercsv.mock.IdentityTransform;
 public class FmtNumberTest {
 	
 	private static final String DECIMAL_FORMAT = "00.00";
-	private static final String FORMATTED_NUMBER = "12.34";
+	private static final String FORMATTED_NUMBER = new DecimalFormat(DECIMAL_FORMAT).format(12.34);
 	
 	private CellProcessor processor;
 	private CellProcessor processor2;
@@ -51,6 +51,7 @@ public class FmtNumberTest {
 		processor2 = new FmtNumber(new DecimalFormat(DECIMAL_FORMAT));
 		processorChain = new FmtNumber(DECIMAL_FORMAT, new IdentityTransform());
 		processorChain2 = new FmtNumber(new DecimalFormat(DECIMAL_FORMAT), new IdentityTransform());
+		
 	}
 	
 	/**
